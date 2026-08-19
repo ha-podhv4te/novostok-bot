@@ -2,8 +2,8 @@ import os
 from telethon import TelegramClient, events
 
 # Данные Telegram API
-API_ID = int(os.environ["API_ID"])
-API_HASH = os.environ["API_HASH"]
+API_ID = "312984491"
+API_HASH = "6c27838f93668b66eb1215238c2aca8a"
 
 # Твой канал
 TARGET =  "@novostokmsw"
