@@ -2,7 +2,7 @@ import os
 from telethon import TelegramClient, events
 
 # Данные Telegram API
-API_ID = 312984491
+API_ID = 31298491
 API_HASH = "6c27838f93668b66eb1215238c2aca8a"
 
 # Твой канал
